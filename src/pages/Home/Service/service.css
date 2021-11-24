@@ -1,0 +1,17 @@
+
+.single-service {
+    background: #20284a;
+    color:#fff;
+    border:0;
+    transition:.5s;
+}
+/* .single-service:hover {
+    background-color: #fff;
+    color:#000;
+} */
+.single-service img {
+    transition:.7s;
+}
+.single-service:hover img{
+    transform: scaleX(-1);
+}
